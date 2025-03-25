@@ -11,7 +11,7 @@
   "devDependencies": {
     "typescript": "^5.7.2",
     "unplugin-turbo-console": "^1.11.1",
-    "vite": "^6.0.5"
+    "vite": "^6.2.3"
   },
   "dependencies": {
     "babylonjs": "^7.41.1"
